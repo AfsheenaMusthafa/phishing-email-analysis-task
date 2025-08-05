@@ -1,0 +1,27 @@
+From: PayPal Support <support@paypaypal.net>
+To: john[.]doe@mybusiness[.]com
+Subject: Verify your recent Paypal Login.
+
+Dear John,
+
+We detected unusual activity on your PayPal account. Log into PayPal to verify your identity and update your password and security questions.
+
+To protect your account, you won't be able to send money or withdraw money until your information has been verified. Also, you won't be able to deposit money into your account, add a credit card, add a bank account, remove bank accounts, remove credit cards, send repayments, or otherwise modify the account.
+
+What's happening?
+Has anyone used your PayPal account without your knowledge? We detected unusual activity in your PayPal account.
+
+You should...
+
+Log into your PayPal account as soon as possible. We may ask you to confirm information that you provided when you opened your account. This will ensure that you are the account holder. We ask you to change your password and security questions.
+
+You should also do the following for your own protection:
+- Check the account details (address, e-mail address, phone number, etc.) to make sure they are correct.
+- Check account access and recent transactions.
+- Report any unknown or unauthorized account access. Under "Conflict Resolution," click Report a problem.
+
+[Verify your identity now]
+
+Please do not reply to this email. We are unable to respond to inquiries sent to this address. For immediate answers to your questions, visit our Help Center by clicking "Help" located on any PayPal page or email.
+
+Copyright © PayPal, Inc. All rights reserved.
